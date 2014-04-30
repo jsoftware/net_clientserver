@@ -231,4 +231,3 @@ NB. server methods are defined as cmd_method verbs
 NB. create a script that adds server method definitions
 NB. and overides default defintions above for password etc.
 NB. see jsss_demo for an example that adds some simple server methods
-
