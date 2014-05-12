@@ -15,3 +15,4 @@ jsss_demo.ijs
 )
 
 RELEASE=: 'j802'
+PLATFORMS=: 'linux win darwin android'
