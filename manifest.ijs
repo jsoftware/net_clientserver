@@ -6,7 +6,7 @@ DESCRIPTION=: 0 : 0
 Simple client server.
 )
 
-VERSION=: '1.0.7'
+VERSION=: '1.0.8'
 
 FILES=: 0 : 0
 jssc.ijs
@@ -14,4 +14,4 @@ jsss.ijs
 jsss_demo.ijs
 )
 
-RELEASE=: 'j802 j803 j804 j805'
+RELEASE=: 'j802 j803 j804 j805 j806'
