@@ -14,4 +14,6 @@ jsss.ijs
 jsss_demo.ijs
 )
 
-RELEASE=: 'j802 j803 j804 j805 j806 j807'
+RELEASE=: ''
+
+FOLDER=: 'net/clientserver'
